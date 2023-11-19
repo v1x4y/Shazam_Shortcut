@@ -3,7 +3,7 @@ Shazamを利用した楽曲識別から歌詞を検索し、スクレイピン�
 
 ios17以降のiPhone、iPad端末で利用可能です。
 
-[Download](https://google.com)
+[Download](https://github.com/v1x4y/Shazam_Shortcut/releases/latest)
 
 # Actions
 ・環境音やデバイス内の音声から曲名やアーティストを特定
