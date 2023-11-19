@@ -5,7 +5,7 @@ ios17以降のiPhone、iPad端末で利用可能です。
 
 [Download](https://github.com/v1x4y/Shazam_Shortcut/releases/latest)
 
-# Actions
+# Functions
 ・環境音やデバイス内の音声から曲名やアーティストを特定
 
 ・歌詞を取得し、見ながら曲を流す(バックグラウンド音声の必要無)
